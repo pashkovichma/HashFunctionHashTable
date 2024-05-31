@@ -1,4 +1,6 @@
-# [Hash Table Class][1]
+# 
+
+[Hash Table Class][1]
 
 The CustomHashTable class implements:
  insert, 
