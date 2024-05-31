@@ -68,7 +68,7 @@ O(n), where n is the number of elements in the bucket.
 Space Complexity: The space complexity of deletion is O(1), as it requires only 
 a constant amount of additional memory for storing temporary variables.
 
-[1]:The CustomHashTable class implements:
+[1]: The CustomHashTable class implements:
  insert, 
  get, 
  delet. 
